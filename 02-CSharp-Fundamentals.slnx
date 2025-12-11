@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../BethanysPieShopHRM/BethanysPieShopHRM.csproj" Id="4bea53dd-541f-4b73-a759-a1d018ceabfd" />
   <Project Path="02-CSharp-Fundamentals.csproj" />
 </Solution>
